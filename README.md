@@ -6,19 +6,19 @@ Run install.bat and wait for dependencies to be installed.
 ### How To Use
 
 
-1. Go To [GRABIFY](https://grabify.link) and enter a url preferably https://google.com
-2. Click Create URL and Select I Agree & Create URL
-3. You will be redirected to a dasboard entitled "TRACKING AND LOGS"
-4. Copy the shortened url eg. (https://grabify.link/******) and paste it in line 34 in the python script
+1. Go to [GRABIFY](https://grabify.link) and ENTER a url preferably https://google.com
+2. Click create url and select "I Agree & Create URL"
+3. You will be redirected to a dashboard entitled "TRACKING AND LOGS"
+4. Copy the shortened url eg. (https://grabify.link/******) and paste it in line 34 in the python script and save it.
 5. Run IPLogger.py and your IP will be logged and sent to your [GRABIFY](https://grabify.link) dashboard 
 
 
 ### Features
 
-- Can be Compiled To EXE
+- Can Be Compiled To EXE
 - Fast Execution
 - User-Agent Can Be Customized
-- Small file size
+- Small File Size
 
 ### ⚠️ Disclaimer 
 
