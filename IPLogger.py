@@ -31,7 +31,7 @@ print(Colorate.Horizontal(Colors.blue_to_purple, Center.XCenter(banner)))
 Write.Print("[+] Starting IP Logger", Colors.blue_to_purple, interval=0.04)
 print()
 Write.Print("[+] Fetching IP Information . . . ", Colors.red_to_yellow, interval=0.07)
-url = 'https://google.com' # ADD YOUR IPLOGGER URL HERE
+url = ' ' # ADD YOUR IPLOGGER URL HERE
 headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0'} # User-Agent Can Be Changed To Whatever You Like
 response= requests.get(url.strip(), headers=headers, timeout=5)
 print()
