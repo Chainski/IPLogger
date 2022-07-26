@@ -20,9 +20,9 @@ Run install.bat and wait for dependencies to be installed.
 - User-Agent Can Be Customized
 - Small File Size
 
-### ⚠️ Disclaimer 
+### DISCLAIMER !!! 
 
-This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
+**This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
 ### Support and Contributions
 My software is open source and free for public use. 
