@@ -23,7 +23,6 @@ banner = '''
        ║               IPLOGGER 1.0.0.0               ║
        ║              coded by CHINOTECH              ║
        ║        For Educational Purposes Only         ║
-       ║  Telegram Channel : https://t.me/chinotech   ║
        ╚══════════════════════════════════════════════╝               
 '''
 
