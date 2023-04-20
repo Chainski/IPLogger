@@ -4,7 +4,8 @@
 <a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/contributions-welcome-green"></a>
 <a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FChainski%2FIPLogger"></a> 
 
-![preview](https://user-images.githubusercontent.com/96607632/181107703-a3bc1a67-4219-4e5f-b685-cf2c541bbd5f.png)
+![iplogger](https://user-images.githubusercontent.com/96607632/233469817-39027573-bc5c-4583-a523-0f84c152e738.png)
+
 
 ### Installation
 Run install.bat and wait for dependencies to be installed.
