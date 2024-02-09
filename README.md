@@ -2,7 +2,6 @@
 <a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/PYTHON-3.10-green"></a>
 <a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
 <a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/contributions-welcome-green"></a>
-<a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FChainski%2FIPLogger"></a> 
 
 ![iplogger](https://user-images.githubusercontent.com/96607632/233469817-39027573-bc5c-4583-a523-0f84c152e738.png)
 
