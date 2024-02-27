@@ -1,9 +1,13 @@
-<a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
-<a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/PYTHON-3.10-green"></a>
-<a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
-<a href="https://github.com/chainski/IPLogger"><img src="https://img.shields.io/badge/contributions-welcome-green"></a>
+<p align= "center">
+<img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=purple"></a>
+<img src="https://hits.sh/github.com/Chainski/IPLogger.svg?label=views&color=purple"></a>
+<img src="https://img.shields.io/badge/PYTHON-3.10-purple"></a>
+<img src="https://img.shields.io/badge/license-GPL--3.0-purple"></a> 
+</p>
 
-![iplogger](https://user-images.githubusercontent.com/96607632/233469817-39027573-bc5c-4583-a523-0f84c152e738.png)
+<p align="center">
+  <img width="670" height="300" src="https://user-images.githubusercontent.com/96607632/233469817-39027573-bc5c-4583-a523-0f84c152e738.png">
+</p>
 
 
 ### Installation
