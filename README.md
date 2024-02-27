@@ -25,7 +25,7 @@ Run install.bat and wait for dependencies to be installed.
 
 ### Features
 
-- Can Be Compiled To EXE
+- [Can Be Compiled To EXE](https://github.com/brentvollebregt/auto-py-to-exe)
 - Fast Execution
 - User-Agent Can Be Customized
 - Small File Size
