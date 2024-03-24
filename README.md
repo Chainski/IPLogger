@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img width="670" height="300" src="https://user-images.githubusercontent.com/96607632/233469817-39027573-bc5c-4583-a523-0f84c152e738.png">
+  <img width="670" height="300" src="https://github.com/Chainski/IPLogger/assets/96607632/d6e4d7f7-de82-4554-afb9-22f151455a3b">
 </p>
 
 
