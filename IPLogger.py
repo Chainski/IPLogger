@@ -21,7 +21,7 @@ banner = '''
                     
        ╔══════════════════════════════════════════════╗
        ║               IPLOGGER 1.0.0.0               ║
-       ║              coded by CHINOTECH              ║
+       ║              coded by CHAINSKI               ║
        ║        For Educational Purposes Only         ║
        ╚══════════════════════════════════════════════╝               
 '''
