@@ -4,11 +4,8 @@ import sys
 import os
 import random
 from pystyle import *
-
 os.system("cls")
-
 os.system(f'title IPLOGGER - Made By: Chainski Tools')
-
 
 banner = '''
 ██╗██████╗ ██╗      ██████╗  ██████╗  ██████╗ ███████╗██████╗ 
