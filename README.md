@@ -8,6 +8,8 @@
 <img src="https://raw.githubusercontent.com/Chainski/IPLogger/refs/heads/main/assets/iplogger.png", width="400", height="400">
 </div>
 
+# IPLogger
+
 ## How To Use
 1. Go to [IPLogger](https://iplogger.org) and ENTER any url then select `Create a shortlink`
 2. You will be redirected to a dashboard entitled `LINK INFORMATION`
