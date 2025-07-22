@@ -1,37 +1,28 @@
 <p align= "center">
-<img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=purple"></a>
-<img src="https://hits.sh/github.com/Chainski/IPLogger.svg?label=views&color=purple"></a>
-<img src="https://img.shields.io/badge/PYTHON-3.10-purple"></a>
-<img src="https://img.shields.io/badge/license-GPL--3.0-purple"></a> 
+<img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=blue"></a>
+<img src="https://hits.sh/github.com/Chainski/IPLogger.svg?label=views&color=blue"></a>
+<img src="https://img.shields.io/badge/license-GPL--3.0-blue"></a> 
 </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chainski/IPLogger/main/assets/IPLogger.png", width="400", height="400">
+</div>
 
-<p align="center">
-  <img width="670" height="300" src="https://github.com/Chainski/IPLogger/assets/96607632/d6e4d7f7-de82-4554-afb9-22f151455a3b">
-</p>
+## How To Use
+1. Go to [IPLogger](https://iplogger.org) and ENTER any url then select `Create a shortlink`
+2. You will be redirected to a dashboard entitled `LINK INFORMATION`
+3. Copy the shortened url eg. `https://iplogger.com/******` and paste it in line `4` in the powershell script and save it.
+4. Run `IPLogger.ps1` and your IP will be logged and sent to your [IPLogger](https://iplogger.org) dashboard 
 
+## Features
+- No Dependencies
+- Fast 
+- Random User-Agents
+- Self-Destroy
 
-### Installation
-Run install.bat and wait for dependencies to be installed.
-
-### How To Use
-
-
-1. Go to [GRABIFY](https://grabify.link) and ENTER any url
-2. Click create url and select `I Agree & Create URL`
-3. You will be redirected to a dashboard entitled `TRACKING AND LOGS`
-4. Copy the shortened url eg. `(https://grabify.link/******)` and paste it in line `30` in the python script and save it.
-5. Run IPLogger.py and your IP will be logged and sent to your [GRABIFY](https://grabify.link) dashboard 
-
-
-### Features
-
-- [Can Be Compiled To EXE](https://github.com/brentvollebregt/auto-py-to-exe)
-- Fast Execution
-- User-Agent Can Be Customized
-- Small File Size
-
-### DISCLAIMER !!! 
+## Disclaimer  
 
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
-
+## 📜 License
+This project is licensed under the **GNU General Public License v3.0**.
+You may copy, distribute, and modify the software as long as you track changes/dates in source files. All modifications must also be licensed under GPLv3. For full license text, see the [LICENSE](./LICENSE) file or visit: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html
